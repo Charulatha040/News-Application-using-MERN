@@ -30,27 +30,7 @@ Integrated with various news APIs to fetch the latest news articles
 Installation
 
 
-Clone the repository:
-git clone https://github.com/Charulatha040/News-Application-using-MERN.git
-Navigate to the project directory:
 
-cd News-Application-using-MERN
-
-
-Install dependencies:
-bash
-npm install
-cd client
-npm install
-Set up environment variables: Create a .env file in the root directory and add the following variables:
-
-
-Code
-MONGO_URI=your_mongodb_uri
-JWT_SECRET=your_jwt_secret
-NEWS_API_KEY=your_news_api_key
-Run the application:
-npm run dev
 
 
 Usage
